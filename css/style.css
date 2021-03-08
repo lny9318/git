@@ -1,3 +1,12 @@
 body{
   background-color: #fff;
 }
+hl{
+  color: #00f;
+}
+h2{
+  color:salmon;
+}
+pre{
+  margin: 10px;
+}
